@@ -18,7 +18,7 @@
 * The [User Guide](https://github.com/wirefalls/geo-nft/wiki/User-Guide) explains how to define all element definitions for geolocation sets in one file, eliminating the chance of having out-of-sync definitions in multiple files when flushing and refilling sets with new data.
 * Simplified directory structure to shorten "include" path names.
 * The script creates ~500 IPv4 and IPv6 set files from the geolocation database in about 11 seconds on a low power quad-core 2200ge server with SSD storage.
-* Tested on [Ubuntu Server](https://ubuntu.com/server), [Fedora Server](https://getfedora.org/en/server/), and [Raspberry Pi OS](https://www.raspberrypi.org/downloads/raspberry-pi-os/).
+* Tested on [Debian Server](https://www.debian.org/), [Ubuntu Server](https://ubuntu.com/server), [Fedora Server](https://getfedora.org/en/server/), and [Raspberry Pi OS](https://www.raspberrypi.org/downloads/raspberry-pi-os/).
 
 If you find ***Geolocation for nftables*** useful, please consider giving us a **Star** at the top of the page.
 
